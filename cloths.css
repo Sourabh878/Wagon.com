@@ -1,0 +1,112 @@
+.cont3
+{
+    display:flex;
+    align-items:top;
+    
+    background-color: white;
+    width:500px;
+    border-radius:9px;
+    box-shadow:10px 10px 5px rgba(0,0,0,0.5);
+
+}
+.img1
+{
+    width:200px;
+    border-radius:9px;
+}
+.p7
+{
+    font-size:20px;
+    font-weight:600;
+    margin-bottom:0;
+}
+.p8
+{
+    font-size:25px;
+    font-weight:400px;
+    color:red;
+    
+    vertical-align: top;
+    margin-bottom:0;
+   
+}
+.p9
+{
+    font-size:20px;
+    color:rgb(8, 166, 19);
+    font-weight:700;
+}
+.glogo
+{
+    height:70px;
+    vertical-align: top;
+    margin-left:60px;
+   
+}
+.p10
+{
+color:grey;
+margin-top:20px;
+font-size:15px;
+font-weight:500;
+margin-left:8px;
+}
+.size button
+{
+    background-color:rgb(175, 163, 186);
+    color:black;
+    border-radius:4px;
+    margin-left:10px;
+    box-shadow: 5px 5px 9px rgba(0,0,0,0.5);
+
+}
+.size button:active
+{
+    background-color:rgb(29, 2, 54);
+    color:white;
+
+}
+.cart
+{
+    width:40px;
+    height:30px;
+    border-radius:9px;
+
+}
+.buy
+{
+    
+    font-size:20px;
+    vertical-align: top;
+    border-radius:9px;
+    height:40px;
+    background-color:rgb(29, 2, 54);
+    color:white;
+    box-shadow:3px 3px 9px rgba(0,0,0,0.5);
+    margin-left:10px;
+    margin-right:20px;
+    width:100px;
+    cursor:pointer;
+
+}
+.b1
+{
+    border-radius:9px;
+    
+    color:white;
+    box-shadow:3px 3px 9px rgba(0,0,0,0.5);
+    cursor:pointer;
+}
+.c1
+{
+    margin-top:50px;
+
+}
+.container2
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+    row-gap:60px;
+    margin-left:50px;
+}

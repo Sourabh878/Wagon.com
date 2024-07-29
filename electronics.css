@@ -1,0 +1,91 @@
+.elecphoto
+{
+    width:250px;
+    border-radius:9px;
+}
+body
+{
+    margin-top:90px;
+}
+.cart
+{
+    width:40px;
+    height:30px;
+    border-radius:9px;
+
+}
+.container2
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 30px;
+}
+.buy
+{
+    
+    font-size:20px;
+    vertical-align: top;
+    border-radius:9px;
+    height:40px;
+    background-color:rgb(29, 2, 54);
+    color:white;
+    box-shadow:3px 3px 9px rgba(0,0,0,0.5);
+    margin-left:10px;
+    margin-right:20px;
+    width:100px;
+    cursor:pointer;
+
+}
+.b1
+{
+    border-radius:9px;
+    
+    color:white;
+    box-shadow:3px 3px 9px rgba(0,0,0,0.5);
+    cursor:pointer;
+}
+.cont2
+{
+    /* margin-top:90px; */
+    background-color: rgb(255, 255, 255);
+    width:250px;
+    padding-bottom:10px;
+    border-radius:9px;
+    box-shadow:9px 9px 9px rgba(0,0,0,0.5);
+    border-style:solid;
+    margin-left:30px;
+    height:464px;
+}
+.s1
+{
+    font-weight:700;
+    font-size:30px;
+    margin-bottom:30px;
+}
+.s2
+{
+    
+    color:grey;
+    font-weight:500;
+    font-size:20px;
+}
+.price
+{
+    font-size:30px;
+    font-weight:500;
+   
+}
+.glogo
+{
+    width:70px;
+}
+.tag
+{
+    display: flex;
+}
+.cont2:hover
+{
+   padding-left:50px;
+   padding-right:50px;
+
+}
