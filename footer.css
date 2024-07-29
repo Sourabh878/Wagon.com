@@ -8,6 +8,7 @@
     border-top-left-radius:9px;
     border-top-right-radius:9px;
     flex-shrink: 0;
+    flex:1;
 
 }
 .mail
